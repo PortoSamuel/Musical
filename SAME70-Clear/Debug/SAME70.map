@@ -4732,14 +4732,14 @@ OUTPUT(SAME70.elf elf32-littlearm)
  .debug_abbrev  0x0000179b      0x102 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
  .debug_abbrev  0x0000189d      0x3ac src/main.o
 
-.debug_loc      0x00000000     0x2c0b
+.debug_loc      0x00000000     0x2beb
  .debug_loc     0x00000000      0x183 src/ASF/common/services/clock/same70/sysclk.o
  .debug_loc     0x00000183      0xea4 src/ASF/sam/drivers/pio/pio.o
  .debug_loc     0x00001027      0x588 src/ASF/sam/drivers/pio/pio_handler.o
  .debug_loc     0x000015af      0xce3 src/ASF/sam/drivers/pmc/pmc.o
  .debug_loc     0x00002292      0x389 src/ASF/sam/drivers/pmc/sleep.o
  .debug_loc     0x0000261b       0x77 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
- .debug_loc     0x00002692      0x579 src/main.o
+ .debug_loc     0x00002692      0x559 src/main.o
 
 .debug_aranges  0x00000000      0x5a8
  .debug_aranges

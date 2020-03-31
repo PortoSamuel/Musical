@@ -45,7 +45,6 @@ volatile char but_flag;
 
 void but_callback(void);
 void buzz(Musica musica,long frequency, long length);
-void TC_init(Tc * TC, int ID_TC, int TC_CHANNEL, int freq);
 void sing(Musica musica);
 void init(void);
 
